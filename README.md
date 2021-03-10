@@ -1,7 +1,5 @@
 # ClientSecurityHash
-REF project for the client security hash process in UiPath's Advanced Developer Training. For more information please see 
-
-![Process Design Document](Calculate Client Security Hash - Process Design Document.pdf.pdf)
+REF project for the client security hash process in UiPath's Advanced Developer Training. For more information please see the [Process Design Document](https://github.com/ugokcesu/ClientSecurityHash/blob/bad9dd0f1bc68b7b9eeda6681ea8eea9aad17b26/Calculate%20Client%20Security%20Hash%20-%20Process%20Design%20Document.pdf.pdf)
 
 # Dispatcher
 Each desired work item is dispatched to a que using **\Dispatcher\Dispatcher.xaml**. 
